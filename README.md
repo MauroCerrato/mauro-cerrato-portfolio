@@ -57,8 +57,8 @@ To complement my diagnostics expertise, I’m actively upskilling in backend and
 
 ## 📎 Links
 
-- LinkedIn > https://www.linkedin.com/in/mauro-cerrato-583b82b/
-- [Confluence Blog (VW Group Internal)]
+- [to my LinkedIn Profile](https://www.linkedin.com/in/mauro-cerrato-583b82b/)
+- [to my Confluence Blog for VW Group Internal employees](https://devstack.vwgroup.com/confluence/pages/viewrecentblogposts.action?key=~w4x2g1a)
 
 ---
 
