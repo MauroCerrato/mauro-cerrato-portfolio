@@ -1,4 +1,3 @@
-
 # 👋 Hi, I'm Mauro Cerrato
 
 🚗 **Senior Diagnostics Strategist** | 🧠 **Systems Engineer** | 🛠️ **API Architect**  
@@ -40,6 +39,20 @@ Welcome to my technical portfolio. With over 25 years in automotive diagnostics 
 🔜 Python & Go containers for diagnostics backends
 🔜 Deployment strategies for edge and backend services
 🔜 CI/CD pipelines for diagnostics microservices
+
+---
+
+## Learning and sharing in Public (2025)
+
+I publish a **Wednesday tech demo** + **Saturday explainer**:
+- **Repo:** SOVD‑Lab — runnable demos (Docker, REST `.http`, CLI, tiny web client)
+- **Articles:** Diagnostics Demystified — short public versions
+
+**Next up**
+- 003 — Evolution of Diagnostic Standards *(Sat)*  
+- 004 — Basics of OBD‑II *(Sat)*  
+- 005 — Inside OBD‑II *(Sat)*  
+- 006 — Understanding ISO 14229 (UDS) *(Sat)*
 
 ---
 
