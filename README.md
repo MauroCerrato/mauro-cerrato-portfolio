@@ -25,7 +25,7 @@ Welcome to my technical portfolio. With over 25 years in automotive diagnostics 
 ✅ Built a mock API gateway demonstrating how partner APIs can map to a single SOVD shape
 ✅ Delivered a gap analysis between custom partner APIs and ISO/DIS 17978‑3 SOVD API
 ✅ Presented a strategic roadmap for group‑wide diagnostics harmonization
-🔜 Creating SOVD-Lab as my contribution in alignment with Eclipse OpenSOVD (Apache 2.0) project
+🔜 Creating SOVD-Lab as my contribution in alignment with the Eclipse OpenSOVD (Apache 2.0) project
 
 📄 [Partner API vs ISO SOVD API Comparison (VW Group Internal)]  
 📊 [SOVD as a Strategic Enabler for Regulatory Compliance (VW Group Internal Presentation)]
@@ -35,8 +35,9 @@ Welcome to my technical portfolio. With over 25 years in automotive diagnostics 
 ## 📚 Continuous Learning Journey (CARIAD‑supported)
 ✅ VS Code setup & GitHub integration
 ✅ License normalization (Apache‑2.0 for code, CC BY 4.0 for docs, CC0 for data)
-🔄 Docker fundamentals (Dev Containers, Dockerfiles, Compose) — in progress
-🔜 Python & Go containers for diagnostics backends
+✅ Docker fundamentals (Dev Containers, Dockerfiles, Compose, Play with Docker sandbox)
+🔜 OpenSOVD odx-converter and classic-diagnostic-adapter prerequisites, learnings, and setup (Kotlin, Gradle, RUST) — in progress
+🔜 Python & Go containers for diagnostics backends — in progress
 🔜 Deployment strategies for edge and backend services
 🔜 CI/CD pipelines for diagnostics microservices
 
@@ -45,28 +46,30 @@ Welcome to my technical portfolio. With over 25 years in automotive diagnostics 
 ## Learning and sharing in Public (2025)
 
 I publish a **Wednesday tech demo** + **Saturday explainer**:
-- **Repo:** SOVD‑Lab — runnable demos (Docker, REST `.http`, CLI, tiny web client)
+- **Repo:** SOVD‑Lab — runnable demos (Docker, REST `.http`, CLI, tiny web clients and servers with multiple languages)
 - **Articles:** Diagnostics Demystified — short public versions
 
 **Next up**
-- 003 — Evolution of Diagnostic Standards *(Sat)*  
-- 004 — Basics of OBD‑II *(Sat)*  
-- 005 — Inside OBD‑II *(Sat)*  
+- VSCode helped with OpenSOVD - tech by doing *(Wed)*
+- 005 — Inside OBD‑II *(Sat)*
+- OBD-II quirks & pitfalls - tech by doing *(Wed)*  
 - 006 — Understanding ISO 14229 (UDS) *(Sat)*
-
+- Safety relevant diagnostics - tech by doing *(Wed)*
+- Conferences resume - focus on SOVD status *( > 25 October)*
+- 007 - How to diagnose a braking system without losing sight of SOTIF 
 ---
 
 📊 KPIs (Publicly Tracked)
 Multi‑client coverage: REST + CLI + web client ✔
 Reusability: 0 custom SOVD server/client beyond Eclipse OpenSOVD ✔
-Harmonization demos: anonymized partner APIs → SOVD mappings
+Harmonization demos: anonymized partner APIs → SOVD mappings ✔
 IP hygiene: 100% SPDX headers; 0 license check failures in CI
 Community: Time‑to‑first‑response < 48h; ≥5 “good first issues” open
 
 ---
 
 🔐 IP Safety
-We follow strict IP rules: no confidential data, no spec text, synthetic datasets only.
+I strive to follow strict IP rules: no confidential data, no ASAM/ISO spec text, synthetic datasets only.
 ➡ Details in docs/10-ip-safety.md.
 Eclipse contributions require a signed ECA: https://www.eclipse.org/legal/eca/
 
