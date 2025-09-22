@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mauro Cerrato
+# 👋 Hi, I'm Mauro
 
 🚗 **Senior Diagnostics Strategist** | 🧠 **Systems Engineer** | 🛠️ **API Architect**  
 **Official Open Source Contributor** at CARIAD | Driving **SOVD** adoption through open collaboration
@@ -36,6 +36,7 @@ Welcome to my technical portfolio. With over 25 years in automotive diagnostics 
 ✅ VS Code setup & GitHub integration
 ✅ License normalization (Apache‑2.0 for code, CC BY 4.0 for docs, CC0 for data)
 ✅ Docker fundamentals (Dev Containers, Dockerfiles, Compose, Play with Docker sandbox)
+✅ Redocly command line vs OpenAPI 3.1.0 vs ASAM/ISO SOVD specification
 🔜 OpenSOVD odx-converter and classic-diagnostic-adapter prerequisites, learnings, and setup (Kotlin, Gradle, RUST) — in progress
 🔜 Python & Go containers for diagnostics backends — in progress
 🔜 Deployment strategies for edge and backend services
