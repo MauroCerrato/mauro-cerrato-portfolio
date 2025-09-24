@@ -1,9 +1,23 @@
 # 👋 Hi, I'm Mauro
 
+I’m passionate about **automotive diagnostics, open standards, and making complex tech accessible**.  
+Currently working on:
+- ✨ [Diagnostics Demystified](https://maurocerrato.github.io/diagnostics-demystified/) → an open GitHub Pages series  
+- 🧪 [sovd-lab](https://github.com/MauroCerrato/sovd-lab) → runnable examples of ASAM/ISO SOVD concepts  
+- 🔧 [vs-code-dev-env](https://github.com/MauroCerrato/vs-code-dev-env) → my evolving dev setup for Kotlin, Rust, Docker, and diagnostics tooling  
+
+---
+
 🚗 **Senior Diagnostics Strategist** | 🧠 **Systems Engineer** | 🛠️ **API Architect**  
 **Official Open Source Contributor** at CARIAD | Driving **SOVD** adoption through open collaboration
 
-Welcome to my technical portfolio. With over 25 years in automotive diagnostics and systems engineering, I specialize in bridging the gap between **standardization**, **architecture**, and **implementation**—especially in the context of **Service-Oriented Vehicle Diagnostics (SOVD)**, **UDS**, **DoIP**, and **ODX/OTX**.
+## 🛠️ My Focus Areas
+- Automotive diagnostics standards (UDS, DoIP, OBD-II, SOVD)
+- Open source collaboration (Eclipse OpenSOVD)
+- Developer experience & toolchains (VSCode, Gradle, Docker)
+- Teaching through storytelling (weekly blog posts)
+
+I specialize in bridging the gap between **standardization**, **architecture**, and **implementation**—especially in the context of **Service-Oriented Vehicle Diagnostics (SOVD)**, **UDS**, **DoIP**, and **ODX/OTX**.
 
 ---
 
@@ -50,11 +64,14 @@ I publish a **Wednesday tech demo** + **Saturday explainer**:
 - **Repo:** SOVD‑Lab — runnable demos (Docker, REST `.http`, CLI, tiny web clients and servers with multiple languages)
 - **Articles:** Diagnostics Demystified — short public versions
 
-**Next up**
-- VSCode helped with OpenSOVD - tech by doing *(Wed)*
-- 005 — Inside OBD‑II *(Sat)*
-- OBD-II quirks & pitfalls - tech by doing *(Wed)*  
+## 🗓️ Ongoing Series
+- **Weekly blog posts** on diagnostics standards, tools, and hands-on examples  
+- **Visual storytelling** → the pilgrim metaphor to make diagnostics journeys relatable  
+- **Kaizen mindset** → improving little by little, every week
+  
+**Next up on Articles and Blog posts** 
 - 006 — Understanding ISO 14229 (UDS) *(Sat)*
+- OBD-II quirks & pitfalls - tech by doing *(Wed)*
 - Safety relevant diagnostics - tech by doing *(Wed)*
 - Conferences resume - focus on SOVD status *( > 25 October)*
 - 007 - How to diagnose a braking system without losing sight of SOTIF 
@@ -82,6 +99,12 @@ Eclipse contributions require a signed ECA: https://www.eclipse.org/legal/eca/
 - Architect of diagnostics harmonization across VW Group brands
 - **Official Open Source Contributor** at CARIAD
 - Co-author of *"Closing the gap between Engineering and Service by using Diagnostic Standards"*
+
+---
+
+## 🌍 Beyond Work
+- Practicing **Aikido** for balance and resilience  
+- Exploring how **kaizen principles** apply to tech and daily life  
 
 ---
 
